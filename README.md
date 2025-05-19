@@ -91,7 +91,3 @@ git clone https://github.com/yourusername/task-manager.git
    http://localhost/task-manager
    ```
 3. Sign up for a new account and start using the application
-
-## Default Login Credentials
-
-- Username: `admin`
